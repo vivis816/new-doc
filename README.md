@@ -1,4 +1,4 @@
-# new-doc
+# repositorio uno del curso de git
 Primer repo creado en git hub
 
 ## descripcion
